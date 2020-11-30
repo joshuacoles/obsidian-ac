@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "ba4484e269394368",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1e88ec30707270b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Theorem 2.17, Open and Closed Complements.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f954bcb046b49dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b17cbd1cff6da62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cfe7a7fa50f7bb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "890f57f1d5ab949b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c84e6267269c16c",
+    "type": "split",
+    "children": [
+      {
+        "id": "71366a451af78883",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e91ab329cf0fb484",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theorem 2.17, Open and Closed Complements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b63dc27f2757ccad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Theorem 2.17, Open and Closed Complements.md",
+    "Normed Vector Space.md",
+    "Metric Space.md",
+    "Metric.md",
+    "Induced Metric.md",
+    "Metric Function.md",
+    "Normed vector spaces.md",
+    "Untitled.md"
+  ]
+}
